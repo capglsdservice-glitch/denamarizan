@@ -13,9 +13,9 @@
     "@fontsource/cormorant-garamond": "^5.3.0",
     "lucide-react": "*",
     "motion": "*",
-    "next": "*",
-    "react": "*",
-    "react-dom": "*"
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
   },
   "devDependencies": {
     "@types/node": "*",
